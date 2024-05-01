@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-Pointone Gen16 Com-Sci Student at Strisrinan School, Nan Thailand
+Pointone Gen16 Com-Sci 
+
+Student at Strisrinan School, Nan Thailand
 
 * 🌍  I'm based in Nan Thailand
 * ✉️  You can contact me at [thitikorn.tk2550@gmail.com](mailto:thitikorn.tk2550@gmail.com)
