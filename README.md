@@ -6,10 +6,6 @@ Student
 -------
 <img src="https://upload.wikimedia.org/wikipedia/th/6/60/Sn-png.png" alt="c" width="60" height="60"/>
 
-Pointone Gen16 Com-Sci 
-
-Student at Strisrinan School, Nan Thailand 
-
 * 🌍  I'm based in Nan Thailand
 * ✉️  You can contact me at [thitikorn.tk2550@gmail.com](mailto:thitikorn.tk2550@gmail.com)
 
